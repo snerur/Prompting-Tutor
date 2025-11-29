@@ -1,0 +1,7 @@
+{
+  "name": "PromptQuest",
+  "description": "An interactive playground and gamified learning platform for mastering Prompt Engineering using Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
